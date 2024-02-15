@@ -50,6 +50,7 @@
    &kp LCTRL  &kp TILDE   &kp PRCNT    &kp GRAVE    TD_SLSH     TD_ATCAT        &trans      &trans    &trans    &trans    &trans     &trans
    &trans     &kp DLLR    &kp AMPS     &kp HASH     TD_MINUS    TD_BSLS         &trans      &trans    &trans    &trans    &trans     &trans
                     	               &trans       &trans      &trans          &trans      &trans    &trans
-                        >;};
+                        >;
+                };
         };
 };
